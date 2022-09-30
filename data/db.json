@@ -2,19 +2,19 @@
   "blogs": [
     {
       "title": "My new website",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi obcaecati dolorem dolores fugit in quae velit suscipit! Delectus, voluptatem aliquam dicta non perspiciatis quas eligendi excepturi natus, necessitatibus id aliquid?",
       "author": "mario",
       "id": 1
     },
     {
       "title": "Welcome party",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi obcaecati dolorem dolores fugit in quae velit suscipit! Delectus, voluptatem aliquam dicta non perspiciatis quas eligendi excepturi natus, necessitatibus id aliquid?",
       "author": "yoshi",
       "id": 2
     },
     {
       "title": "Web dev top tips",
-      "body": "lorem ipsum...",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi obcaecati dolorem dolores fugit in quae velit suscipit! Delectus, voluptatem aliquam dicta non perspiciatis quas eligendi excepturi natus, necessitatibus id aliquid?",
       "author": "mario",
       "id": 3
     }
